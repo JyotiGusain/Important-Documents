@@ -1,0 +1,6 @@
+pwd--> present working directory-->tells us where currently you are in.
+ls -ltr -->list all the directory and files in current directory.
+cd -->change directory
+cp --> copy
+chmod 777* -->if you want to change permission for all file and directory in current directory.
+mv --> move file or directory
